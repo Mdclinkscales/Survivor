@@ -1,0 +1,48 @@
+* {
+    border: dotted red 1px;
+}
+div.navbar{
+    display: inline-block;
+    height: 150px;
+    background-color: wheat;
+    text-align: justify;
+    width: 100%;
+}
+div.navbar img{
+    display: inline-block;
+    width: 220px;
+}
+div.title{
+    text-align: center;
+    display: inline-block;
+    font-size: 24px;
+    margin-bottom: 25px;
+    width: 800px;
+    vertical-align: middle;
+}
+div.title h2, div.title h3{
+    display: inline-block;
+}
+div.login{
+    display: inline-block;
+    width: 350px;
+}
+form{
+    display: block;
+    height: 100px;
+    vertical-align: top;
+}
+div.registration{
+    height: 600px;
+    background-color: slategrey;
+    text-align: center;
+}
+form.reg{
+    display: inline-block;
+    height: auto;
+    background-color: tomato;
+    vertical-align: top;
+    text-align: center;
+    width: 40%;
+    padding: 0px 0px 30px 0px;
+}
